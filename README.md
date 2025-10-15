@@ -1,10 +1,7 @@
-# 💧 Optimization of Hirakud Dam Operation using Genetic Algorithm  
+# Optimization of Hirakud Dam Operation using Genetic Algorithm  
 
 **Course:** CE718 – Water Resources Systems Engineering  
-**Group 10 | April 2025**  
 
-**Team Members:**  
-Madhav Khetan · Ansh Jain · Sanskar Kumar · Dnyaneshwar Pawar · Aadi Singh · Saurabh  
 
 ---
 
